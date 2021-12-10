@@ -1,15 +1,15 @@
 # imskrao
 ### Hi there 👋
 
-[![Santosh Kumar Rao](https://imskrao.github.io/images/about.jpg)](https://imskrao.github.io/)
+[![Santosh Kumar Rao](https://pbs.twimg.com/profile_images/1452016436285632514/6woRQDD2_400x400.jpg)](https://imskrao.github.io/)
 
  👋  I’m Santosh Kumar Rao. Not your average front-end developer, front-end developer who focuses on writing clean, elegant and efficient code.
 
 - 🔭 Working at [@Belzabar](https://belzabar.com/)
-- 📫 Contact Me: [@Santosh Kuamr Rao](https://twitter.com/home)
+- 📫 Contact Me: [@Santosh Kuamr Rao](https://twitter.com/im_skrao)
 
 ### <img src="assets/handshake.gif" width = "40px">&nbsp;Connect with me:
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_skrao)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/im-skrao/)
  [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@imskrao)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dev.santoshrao@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub.)
